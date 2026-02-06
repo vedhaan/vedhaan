@@ -1,56 +1,94 @@
 <div align="center">
 
-# Vedhaan Technology  
-### Engineering Scalable Digital Systems for Business Growth
+<h1>Vedhaan Technology</h1>
 
-**Web Development • Shopify • AI & Automation • SEO • Digital Marketing**
+<h3>Engineering Scalable Digital Systems for Business Growth</h3>
+
+<p>
+  <strong>
+    Web Development &nbsp;•&nbsp;
+    Shopify Development &nbsp;•&nbsp;
+    AI & Automation &nbsp;•&nbsp;
+    SEO &nbsp;•&nbsp;
+    Digital Marketing
+  </strong>
+</p>
+
+<hr width="60%"/>
 
 </div>
 
----
-
-## About Vedhaan Technology
+## About Us
 
 **Vedhaan Technology** is a digital solutions and software development company
 focused on building **scalable, performance-driven, and production-ready systems**
 for modern businesses.
 
 We combine **engineering precision** with **growth-focused digital strategy**
-to deliver solutions that are reliable, measurable, and built for long-term use.
+to deliver solutions that are reliable, measurable, and built for long-term success.
 
 ---
 
 ## Services
 
-### Web Development
-Custom websites and web applications built with clean architecture, optimized
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Web Development
+Custom websites and web applications with clean architecture, optimized
 performance, and SEO-ready foundations.
 
-### Shopify Development
+</td>
+<td width="50%">
+
+### 🛒 Shopify Development
 High-conversion Shopify stores, theme customization, performance optimization,
 and advanced integrations for scalable e-commerce growth.
 
-### AI & Automation
-Business automation solutions that reduce manual work, streamline operations,
-and improve efficiency using intelligent workflows and integrations.
+</td>
+</tr>
 
-### Search Engine Optimization (SEO)
-Technical SEO, on-page optimization, Core Web Vitals improvements, and long-term
+<tr>
+<td width="50%">
+
+### 🤖 AI & Automation
+Business automation solutions that reduce manual work, streamline operations,
+and improve efficiency using intelligent workflows.
+
+</td>
+<td width="50%">
+
+### 📈 SEO
+Technical SEO, on-page optimization, Core Web Vitals improvement, and long-term
 organic growth strategies.
 
-### Digital Marketing
-Performance-focused digital marketing campaigns driven by data, conversions,
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📣 Digital Marketing
+Performance-focused marketing campaigns driven by data, conversions,
 and measurable ROI — not vanity metrics.
 
-### Google My Business Optimization
-Local SEO optimization, profile management, reputation improvement, and increased
-local visibility for location-based businesses.
+</td>
+<td width="50%">
+
+### 📍 Google My Business Optimization
+Local SEO optimization, profile management, reputation improvement, and
+local visibility growth for location-based businesses.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## How We Work
 
-Our approach is structured, transparent, and engineering-first.
+> **Engineering-first. Business-driven. Results-focused.**
 
 - Business understanding before execution  
 - Clean architecture over short-term hacks  
@@ -63,36 +101,44 @@ We build systems that businesses can rely on — not temporary solutions.
 
 ## Technology Stack
 
-**Frontend**
-- HTML5, CSS3, JavaScript  
-- Modern UI frameworks & responsive design  
+<div align="center">
 
-**Backend**
-- PHP, Laravel  
-- Node.js  
-- RESTful API development  
+**Frontend**  
+HTML • CSS • JavaScript • Modern UI Frameworks  
 
-**Databases**
-- MySQL  
-- MongoDB  
+<br/>
 
-**Infrastructure**
-- Git & GitHub  
-- Linux environments  
-- CI/CD workflows  
+**Backend**  
+PHP • Laravel • Node.js • REST APIs  
+
+<br/>
+
+**Databases**  
+MySQL • MongoDB  
+
+<br/>
+
+**Infrastructure**  
+Git • GitHub • Linux • CI/CD  
+
+</div>
 
 ---
 
 ## Client Feedback
 
-> “Vedhaan Technology delivered a clean and scalable system that improved our operations.”
+> *“Vedhaan Technology delivered a clean and scalable system that improved our operations.”*
 
-> “Professional team with strong technical expertise and reliable execution.”
+> *“Professional team with strong technical expertise and reliable execution.”*
 
-> “Clear communication, fast turnaround, and production-ready solutions.”
+> *“Clear communication, fast turnaround, and production-ready solutions.”*
 
-**Average Client Rating:** ⭐ 4.8 / 5  
-**Client Retention:** High repeat engagement
+<div align="center">
+
+⭐ **Average Client Rating:** **4.8 / 5**  
+⭐ **High Client Retention & Repeat Engagement**
+
+</div>
 
 ---
 
@@ -100,7 +146,7 @@ We build systems that businesses can rely on — not temporary solutions.
 
 We work with:
 - Startups & Founders  
-- Small and Mid-size Businesses  
+- Small & Mid-size Businesses  
 - E-commerce Brands  
 - Agencies & Consultants  
 
@@ -115,25 +161,30 @@ This GitHub profile contains:
 - Internal tools & reusable components  
 - Project structures used in real deployments  
 
-This is **working, real-world code** — not tutorials or experiments.
+This is **real-world working code** — not tutorials or experiments.
 
 ---
 
 ## Company Information
 
-**Vedhaan Technology**  
-📍 Bhavnagar, Gujarat, India  
+<div align="center">
 
-🌐 https://vedhaantechnology.com  
-📧 hello@vedhaantechnology.com  
+**Vedhaan Technology**  
+Bhavnagar, Gujarat, India  
+
+🌐 https://vedhaan.com  
+📧 vedhaantechnology@gmail.com.com  
+
+</div>
 
 ---
 
-## Work With Us
+<div align="center">
 
-We collaborate on:
-- Custom web & Shopify development  
-- AI automation & backend systems  
-- SEO and digital growth initiatives  
+### Interested in Working With Us?
 
-Reach out via our website or email to start a conversation.
+Custom development • Shopify solutions • Automation • SEO & growth strategy  
+
+**Reach out via our website or email to start a conversation.**
+
+</div>
