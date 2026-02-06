@@ -80,17 +80,18 @@ We build systems that businesses can rely on — not temporary solutions.
 ## Technology Stack
 
 **Frontend**
-- HTML5, CSS3, JavaScript  
+- HTML5, CSS3, JavaScript, React  
 - Modern UI frameworks & responsive design  
 
 **Backend**
-- PHP, Laravel  
+- PHP
 - Node.js  
 - RESTful API development  
 
 **Databases**
 - MySQL  
-- MongoDB  
+- MongoDB
+- PostgreSQL
 
 **Infrastructure**
 - Git & GitHub  
@@ -146,8 +147,8 @@ This is **real-world working code** — not tutorials or experiments.
 <strong>Vedhaan Technology</strong><br/>
 Bhavnagar, Gujarat, India  
 
-🌐 https://vedhaantechnology.com  
-📧 hello@vedhaantechnology.com  
+🌐 https://vedhaan.com  
+📧 vedhaantechnology@gmail.com  
 
 </div>
 
