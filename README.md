@@ -6,11 +6,7 @@
 
 <p>
   <strong>
-    Web Development &nbsp;•&nbsp;
-    Shopify Development &nbsp;•&nbsp;
-    AI & Automation &nbsp;•&nbsp;
-    SEO &nbsp;•&nbsp;
-    Digital Marketing
+    Web Development • Shopify Development • AI & Automation • SEO • Digital Marketing
   </strong>
 </p>
 
@@ -31,58 +27,40 @@ to deliver solutions that are reliable, measurable, and built for long-term succ
 
 ## Services
 
-<table>
-<tr>
-<td width="50%">
-
 ### 💻 Web Development
-Custom websites and web applications with clean architecture, optimized
-performance, and SEO-ready foundations.
+Custom websites and web applications built with clean architecture, optimized
+performance, and SEO-ready foundations. Designed for scalability and long-term
+maintainability.
 
-</td>
-<td width="50%">
+---
 
 ### 🛒 Shopify Development
-High-conversion Shopify stores, theme customization, performance optimization,
-and advanced integrations for scalable e-commerce growth.
+Conversion-focused Shopify stores, custom theme development, performance
+optimization, and advanced integrations to support e-commerce growth.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 🤖 AI & Automation
-Business automation solutions that reduce manual work, streamline operations,
-and improve efficiency using intelligent workflows.
+Automation solutions that reduce manual work, streamline operations, and improve
+business efficiency through intelligent workflows and integrations.
 
-</td>
-<td width="50%">
+---
 
-### 📈 SEO
-Technical SEO, on-page optimization, Core Web Vitals improvement, and long-term
+### 📈 Search Engine Optimization (SEO)
+Technical SEO, on-page optimization, Core Web Vitals improvements, and sustainable
 organic growth strategies.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 📣 Digital Marketing
-Performance-focused marketing campaigns driven by data, conversions,
-and measurable ROI — not vanity metrics.
+Performance-driven digital marketing campaigns focused on conversions, ROI,
+and measurable business outcomes — not vanity metrics.
 
-</td>
-<td width="50%">
+---
 
 ### 📍 Google My Business Optimization
-Local SEO optimization, profile management, reputation improvement, and
-local visibility growth for location-based businesses.
-
-</td>
-</tr>
-</table>
+Local SEO optimization, profile setup and management, reputation improvement,
+and increased local search visibility.
 
 ---
 
@@ -101,27 +79,23 @@ We build systems that businesses can rely on — not temporary solutions.
 
 ## Technology Stack
 
-<div align="center">
+**Frontend**
+- HTML5, CSS3, JavaScript  
+- Modern UI frameworks & responsive design  
 
-**Frontend**  
-HTML • CSS • JavaScript • Modern UI Frameworks  
+**Backend**
+- PHP, Laravel  
+- Node.js  
+- RESTful API development  
 
-<br/>
+**Databases**
+- MySQL  
+- MongoDB  
 
-**Backend**  
-PHP • Laravel • Node.js • REST APIs  
-
-<br/>
-
-**Databases**  
-MySQL • MongoDB  
-
-<br/>
-
-**Infrastructure**  
-Git • GitHub • Linux • CI/CD  
-
-</div>
+**Infrastructure**
+- Git & GitHub  
+- Linux environments  
+- CI/CD workflows  
 
 ---
 
@@ -146,7 +120,7 @@ Git • GitHub • Linux • CI/CD
 
 We work with:
 - Startups & Founders  
-- Small & Mid-size Businesses  
+- Small and Mid-size Businesses  
 - E-commerce Brands  
 - Agencies & Consultants  
 
@@ -169,11 +143,11 @@ This is **real-world working code** — not tutorials or experiments.
 
 <div align="center">
 
-**Vedhaan Technology**  
+<strong>Vedhaan Technology</strong><br/>
 Bhavnagar, Gujarat, India  
 
-🌐 https://vedhaan.com  
-📧 vedhaantechnology@gmail.com.com  
+🌐 https://vedhaantechnology.com  
+📧 hello@vedhaantechnology.com  
 
 </div>
 
@@ -181,10 +155,10 @@ Bhavnagar, Gujarat, India
 
 <div align="center">
 
-### Interested in Working With Us?
+<h3>Work With Us</h3>
 
-Custom development • Shopify solutions • Automation • SEO & growth strategy  
+Custom web development • Shopify solutions • Automation • SEO & digital growth  
 
-**Reach out via our website or email to start a conversation.**
+<strong>Reach out via our website or email to start a conversation.</strong>
 
 </div>
